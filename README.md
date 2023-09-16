@@ -44,3 +44,21 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# Marketplace React + Typescript
+
+React Typescipt
+https://create-react-app.dev/docs/adding-typescript/
+
+Tailwind CC
+https://tailwindcss.com/docs/guides/create-react-app
+
+MerakiUI
+https://merakiui.com/
+
+Fake Store API
+https://fakestoreapi.com/
+
+![image](https://github.com/Omniamutanturnihilinterit/Marketplace-React-Typescript/assets/92959023/2f1b9711-95da-4687-b442-79c00df3655e)
+
+Reference : https://www.tutofox.com/react/marketplace-react-typescript/
